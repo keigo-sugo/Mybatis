@@ -1,0 +1,2 @@
+# Mybatis
+MybatisGeneratorにて自動生成したソースコードをMybatis-springにて管理・実行する
